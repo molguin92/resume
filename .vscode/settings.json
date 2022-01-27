@@ -1,0 +1,14 @@
+{
+    "markdown.styles": [
+        "normalize.css",
+        "custom.css"
+    ],
+    "spellright.language": [
+        "en_US-large"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ]
+}
