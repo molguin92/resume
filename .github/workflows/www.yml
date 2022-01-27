@@ -1,0 +1,26 @@
+name: Build HTML version
+on:
+  push:
+    branches: 
+      - master
+      
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2
+      - uses: docker://pandoc/core:2.9
+        with:
+          args: >-
+            -s resume.md
+            -c normalize.css
+            -c custom.css
+            -o index.html
+            --standalone
+      - run: mkdir -p ./www
+      - run: cp normalize.md custom.css index.html ./www/
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./www
