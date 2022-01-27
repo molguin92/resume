@@ -1,17 +1,22 @@
-<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin">
+---
+title: Manuel Olguín Muñoz
+...
 
-# Manuel Olguín Muñoz
+<script src="https://use.fontawesome.com/0c1a62f68e.js"></script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu">
 
-<span>**[manuel@olguinmunoz.xyz](mailto:manuel@olguinmunoz.xyz) |  [https://manuel.olguinmunoz.xyz](https://manuel.olguinmunoz.xyz)**</span>
+<!-- # Manuel Olguín Muñoz -->
+
+<span>**[  manuel@olguinmunoz.xyz](mailto:manuel@olguinmunoz.xyz) | [  https://manuel.olguinmunoz.xyz](https://manuel.olguinmunoz.xyz) | [  molguin92](https://github.com/molguin92)**</span>
 
 ## Experience
 
 ### Researcher, KTH Royal Institute of Technology, Sweden (Sept. 2017 - present)
 
 * Design and implement the [ExPECA testbed](https://www.jamesgross.org/research/expeca/), the first highly reprogrammable and reconfigurable wireless networking and Edge Computing testbed in Sweden.
-  Main responsible for workload virtualization and orchestration, and co-responsible for cluster and network architecture and maintenance.
+  * Main responsible for workload virtualization and orchestration; co-responsible for cluster and network architecture and maintenance.
 * Conduct research into the benchmarking and performance analysis of Edge Computing infrastructures and the applications deployed on them.
-* Tightly collaborate with Carnegie Mellon University on the modeling and performance evaluation of immersive, highly-interactive human-in-the-loop applications deployed on Edge Computing infrastructure.
+  * In this context, tightly collaborate with Carnegie Mellon University on the modeling and performance evaluation of immersive, highly-interactive human-in-the-loop applications on Edge Computing.
 
 ### Lecturer, Universidad de Chile, Chile (Remotely, Aug. - Dec. 2021)
 
@@ -33,7 +38,7 @@
 * Data analysis & visualization: Experienced with Pandas, Jupyter, Matplotlib, Numpy, Scipy, and Plotly. Basic knowledge of Apache Spark, Tableau, and D3.js.
 * Operating Systems: Extensive experience in Linux environments. Comfortable with OSX and Windows.
 * Networking: Practical experience in small network design and implementation, including, but not limited to, routing, VLAN, DHCP, NAT, VPN tunneling, and forward and reverse DNS configuration.
-* Machine Learning: Course experience in statistics, basic machine learning models (SVMs, Decision Trees, etc.), as well as deep neural networks (feed-forward, convolutional, and recurrent). Furthermore, currently supervising a master thesis on industrial applications of machine learning.
+* Machine Learning: Course experience in statistics and basic machine learning models (SVMs, Decision Trees, etc.), as well as deep neural networks (feed-forward, convolutional, and recurrent) and related tools (scikit-learn, Tensorflow, Keras). Currently supervising a master thesis on industrial applications of machine learning.
 * Other technologies and tools: Experienced in Ansible, Git, Docker, MySQL, PostgreSQL. Some experience with GCP and AWS.
 
 ## Education
