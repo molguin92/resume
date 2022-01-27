@@ -46,6 +46,7 @@ title: Manuel Olguín Muñoz
 
 ### Ph.D. in Electrical Engineering, KTH Royal Institute of Technology, Sweden (2017 - 2022, *ongoing*)
 
+* Expected graduation date: September 2022
 * Thesis: *Edge Computing for Critical Applications*
 * Doctoral Advisor: [James Gross, Ph.D.](https://jamesgross.org)
 
@@ -57,8 +58,11 @@ title: Manuel Olguín Muñoz
 
 ### Bachelor of Engineering Sciences in Computing, Universidad de Chile, Chile (2011 - 2014)
 
-* Graduated with *Honors*.
-
 ## Languages
 
 * Spanish (native); English and Swedish (fluent); Portuguese (basic).
+
+## Selected publications
+
+* Manuel Olguín Muñoz *et al.* 2021. [**Impact of delayed response on wearable cognitive assistance**. In PLOS ONE.](https://doi.org/10.1371/journal.pone.0248690)
+* Manuel Olguín Muñoz *et al.* 2019. [**EdgeDroid: An Experimental Approach to Benchmarking Human-in-the-Loop Applications**. In Proceedings of the 20th International Workshop on Mobile Computing Systems and Applications (HotMobile '19).](http://doi.acm.org/10.1145/3301293.3302353)
