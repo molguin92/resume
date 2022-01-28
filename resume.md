@@ -2,14 +2,14 @@
 title: Manuel Olguín Muñoz
 ...
 
-<script src="https://use.fontawesome.com/0c1a62f68e.js"></script>
+<link href="fontawesome-free-5.15.4-web/css/all.min.css" rel="stylesheet">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu">
 
 <!-- # Manuel Olguín Muñoz -->
 
-<span>**[  manuel@olguinmunoz.xyz](mailto:manuel@olguinmunoz.xyz) | [  https://manuel.olguinmunoz.xyz](https://manuel.olguinmunoz.xyz) | [  molguin92](https://github.com/molguin92)**</span>
+<span>**[<i class="fas fa-envelope"></i> manuel@olguinmunoz.xyz](mailto:manuel@olguinmunoz.xyz) | [<i class="fas fa-link"></i>  https://manuel.olguinmunoz.xyz](https://manuel.olguinmunoz.xyz) | [<i class="fas fa-github fa-lg"></i> molguin92](https://github.com/molguin92)**</span>
 
-## Experience
+## <i class="fas fa-briefcase"></i> Experience
 
 ### Researcher, KTH Royal Institute of Technology, Sweden (Sept. 2017 - present)
 
@@ -32,7 +32,7 @@ title: Manuel Olguín Muñoz
 
 * Implemented in-house solutions to optimize the workflow in foundation activities.
 
-## Technical Skills
+## <i class="fas fa-laptop-code"></i> Technical Skills
 
 * **Programming languages:** Python, Java, Android, C++, Bash.
 * **Data analysis & visualization:** Experienced with Pandas, Jupyter, Matplotlib, Numpy, Scipy, and Plotly. Basic knowledge of Apache Spark, Tableau, and D3.js.
@@ -42,7 +42,7 @@ title: Manuel Olguín Muñoz
 * **Single-board computers and embedded systems:** Experienced in the configuration and programming of Raspberry Pi SoCs and Arduino boards.
 * **Other technologies and tools:** Experienced in Ansible, Git, Docker, MySQL, PostgreSQL. Some experience with GCP and AWS.
 
-## Education
+## <i class="fas fa-graduation-cap"></i> Education
 
 ### Ph.D. in Electrical Engineering, KTH Royal Institute of Technology, Sweden (2017 - 2022, *ongoing*)
 
@@ -58,11 +58,11 @@ title: Manuel Olguín Muñoz
 
 ### Bachelor of Engineering Sciences in Computing, Universidad de Chile, Chile (2011 - 2014)
 
-## Languages
+## <i class="fas fa-language"></i>Languages
 
 * Spanish (native); English and Swedish (fluent); Portuguese (basic).
 
-## Selected publications
+## <i class="fas fa-file-alt"></i>Selected publications
 
 * Manuel Olguín Muñoz *et al.* 2021. [**Impact of delayed response on wearable cognitive assistance**. In PLOS ONE.](https://doi.org/10.1371/journal.pone.0248690)
 * Manuel Olguín Muñoz *et al.* 2019. [**EdgeDroid: An Experimental Approach to Benchmarking Human-in-the-Loop Applications**. In Proceedings of the 20th International Workshop on Mobile Computing Systems and Applications (HotMobile '19).](http://doi.acm.org/10.1145/3301293.3302353)
