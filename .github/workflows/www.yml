@@ -19,6 +19,7 @@ jobs:
             --standalone
       - run: mkdir -p ./www
       - run: cp normalize.css custom.css index.html ./www/
+      - run: cp -r fontawesome-free-5.15.4-web ./www/fontawesome-free-5.15.4-web
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
