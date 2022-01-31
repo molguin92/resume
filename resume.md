@@ -13,7 +13,7 @@ title: Manuel Olguín Muñoz
 
 ### Researcher, KTH Royal Institute of Technology, Sweden (Sept. 2017 - present)
 
-* Designing and implementing the [ExPECA testbed](https://www.jamesgross.org/research/expeca/), the first highly reprogrammable and reconfigurable wireless networking and Edge Computing testbed in Sweden.
+* Designing and implementing the [ExPECA testbed](https://manuel.olguinmunoz.xyz/projects/expeca_testbed/), the first highly reprogrammable and reconfigurable wireless networking and Edge Computing testbed in Sweden.
   * Main responsible for workload virtualization and orchestration; co-responsible for cluster and network architecture and maintenance.
 * Conducting research into the benchmarking and performance analysis of Edge Computing infrastructures and the applications deployed on them.
   * In this context, tightly collaborating with Carnegie Mellon University on the modeling and performance evaluation of immersive, highly-interactive human-in-the-loop applications on Edge Computing.
