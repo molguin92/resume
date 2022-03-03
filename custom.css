@@ -29,7 +29,7 @@ body {
 
 span {
     display: flex;
-    justify-content: right;
+    justify-content: center;
     font-size: 9pt;
 }
 
@@ -87,7 +87,7 @@ h5 {
 }
 
 ul {
-    list-style-type: '> ';
+    list-style-type: square;
     list-style-position: inside;
     padding-left: 2em;
     padding-top: 0;
@@ -96,11 +96,15 @@ ul {
 }
 
 *:not(li)>ul {
-    list-style-type: '> ';
+    list-style-type: square;
     list-style-position: inside;
     padding-left: 0em;
 }
 
 i {
     margin-right: 3pt;
+}
+
+p {
+    margin-bottom: 3pt;
 }
