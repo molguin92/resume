@@ -38,8 +38,7 @@ Doctoral candidate at KTH researching latency-sensitive distributed applications
 * Designed and built the first reprogrammable and reconfigurable [Edge Computing testbed](https://manuel.olguinmunoz.xyz/projects/expeca_testbed/) in Sweden.
   * Automated workload orchestration with Python and Docker Swarm.
   * Integrated AWS public cloud capabilities using the `boto3` Python library.
-* Published research on Augmented Reality and Edge Computing in renowned publications and venues such as [PLOS ONE](https://journals.plos.org/plosone/), [ACM HotMobile](http://www.hotmobile.org/main/), and the [ACM/IEEE Symposium on Edge Computing](http://acm-ieee-sec.org/).
-  * In collaboration with the [Elijah Group](https://elijah.cs.cmu.edu/) at Carnegie Mellon University.
+* Published research on Augmented Reality and Edge Computing in renowned publications and venues (e.g. [ACM HotMobile](http://www.hotmobile.org/main/), [ACM/IEEE SEC](http://acm-ieee-sec.org/)), in collaboration with the [Elijah Group](https://elijah.cs.cmu.edu/) at Carnegie Mellon University.
 
 <!-- ### Universidad de Chile, Chile | Lecturer (Remote) | 08/2021 - 12/2021
 
@@ -49,7 +48,7 @@ Doctoral candidate at KTH researching latency-sensitive distributed applications
 ### NIC Chile Research Labs, Chile | Graduate Researcher and Developer | 08/2015 - 08/2017
 
 * Awarded an engineering degree for the development of a simulator for Intelligent Transportation Systems in C++
-* Developed a micro-service for image serving, used by all application prototypes of the lab.
+* Developed a RESTful micro-service for image serving in Python, used by all application prototypes of the lab.
 
 ### FECh, Chile | Volunteer Developer | 03/2013 - 07/2014
 
@@ -60,7 +59,7 @@ Doctoral candidate at KTH researching latency-sensitive distributed applications
 
 * **Programming languages:** Python (\~10 years of experience) | Java | Android | C++ | C | Bash
 * **System Administration:** Linux (\~10 years of experience) | Ansible
-* **Data analysis & visualization:** Pandas | Matplotlib | Numpy | Scipy | Jupyter | Apache Spark | Tableau
+<!-- * **Data analysis & visualization:** Pandas | Matplotlib | Numpy | Scipy | Jupyter | Apache Spark | Tableau -->
 * **Cloud Technologies:** AWS | DigitalOcean | GCP | Docker | Docker Swarm
 * **Database Technologies**: MySQL | PostgreSQL | SQLite.
 * **VCS and CI/CD Technologies:** Git | GitHub | GitHub Actions | Jenkins
