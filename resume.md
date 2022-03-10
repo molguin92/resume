@@ -47,7 +47,7 @@ Doctoral candidate at KTH researching latency-sensitive distributed applications
 
 ### NIC Chile Research Labs, Chile | Researcher and Software Developer | 08/2015 - 08/2017
 
-* Built a simulator for Intelligent Transportation Systems in C++. Awarded an engineering degree for this work.
+* Awarded an engineering degree for the development of a simulator for Intelligent Transportation Systems in C++
 
 ## Skills
 
