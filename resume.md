@@ -27,6 +27,7 @@ pagetitle: Manuel Olguín Muñoz
 Doctoral candidate at KTH researching latency-sensitive distributed applications on Edge Computing.
 
 * 5 years of professional work and research experience using Python and Linux.
+* 8 years of cumulative software engineering experience.
 * 3 years of experience with public clouds (AWS, GCP) and related technologies (Docker, `boto3`).
 * Deep understanding of the TCP/IP networking stack.
 
@@ -40,14 +41,20 @@ Doctoral candidate at KTH researching latency-sensitive distributed applications
 * Published research on Augmented Reality and Edge Computing in renowned publications and venues such as [PLOS ONE](https://journals.plos.org/plosone/), [ACM HotMobile](http://www.hotmobile.org/main/), and the [ACM/IEEE Symposium on Edge Computing](http://acm-ieee-sec.org/).
   * In collaboration with the [Elijah Group](https://elijah.cs.cmu.edu/) at Carnegie Mellon University.
 
-### Universidad de Chile, Chile | Lecturer (Remote) | 08/2021 - 12/2021
+<!-- ### Universidad de Chile, Chile | Lecturer (Remote) | 08/2021 - 12/2021
 
 * Co-lectured a course on the fundamentals of the TCP/IP stack to 81 computer science undergraduates.
-* Designed innovative homework assignments using the Kathará simulator which were highly praised by students.
+* Designed innovative homework assignments using the Kathará simulator which were highly praised by students. -->
 
-### NIC Chile Research Labs, Chile | Researcher and Software Developer | 08/2015 - 08/2017
+### NIC Chile Research Labs, Chile | Graduate Researcher and Developer | 08/2015 - 08/2017
 
 * Awarded an engineering degree for the development of a simulator for Intelligent Transportation Systems in C++
+* Developed a micro-service for image serving, used by all application prototypes of the lab.
+
+### FECh, Chile | Volunteer Developer | 03/2013 - 07/2014
+
+* Developed a crowdsourced geographic information sharing Android application used by hundreds of concurrent users.
+* Featured on national and international media for the applications' innovative nature.
 
 ## Skills
 
