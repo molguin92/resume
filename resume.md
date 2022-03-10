@@ -26,8 +26,8 @@ pagetitle: Manuel Olguín Muñoz
 
 Doctoral candidate at KTH researching latency-sensitive distributed applications on Edge Computing.
 
+* 6 years of experience in experimental and testbed research on distributed systems.
 * 5 years of professional work and research experience using Python and Linux.
-* 3 years of experience with public clouds (AWS, GCP) and related technologies (Docker, `boto3`).
 * Deep understanding of the TCP/IP networking stack.
 
 ## Work Experience
@@ -35,8 +35,7 @@ Doctoral candidate at KTH researching latency-sensitive distributed applications
 ### KTH Royal Institute of Technology, Sweden | Doctoral Researcher | 09/2017 - Present
 
 * Designed and built the first reprogrammable and reconfigurable [Edge Computing testbed](https://manuel.olguinmunoz.xyz/projects/expeca_testbed/) in Sweden.
-  * Automated workload orchestration with Python and Docker Swarm.
-  * Integrated AWS public cloud capabilities using the `boto3` Python library.
+  * Automated workload orchestration with Python and Docker Swarm; integrated AWS public cloud with `boto3`.
 * Published research on Augmented Reality and Edge Computing in renowned publications and venues such as [PLOS ONE](https://journals.plos.org/plosone/), [ACM HotMobile](http://www.hotmobile.org/main/), and the [ACM/IEEE Symposium on Edge Computing](http://acm-ieee-sec.org/).
   * In collaboration with the [Elijah Group](https://elijah.cs.cmu.edu/) at Carnegie Mellon University.
 
@@ -47,7 +46,7 @@ Doctoral candidate at KTH researching latency-sensitive distributed applications
 
 ### NIC Chile Research Labs, Chile | Researcher and Software Developer | 08/2015 - 08/2017
 
-* Built a simulator for Intelligent Transportation Systems in C++. Awarded an engineering degree for this work.
+* Built a simulator for Intelligent Transportation Systems in C++, integrating OMNeT++ with a traffic simulator. Awarded an engineering degree for this work.
 
 ## Skills
 
