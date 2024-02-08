@@ -61,6 +61,7 @@ Committed to fostering a culture of learning and innovation, with a demonstrated
 * **Programming languages:** Python (\~12 yoe) | Rust (\~2 yoe) | Go (\~2 yoe) | C++ | Java
 * **Database Technologies**: PostgreSQL (\~2 yoe) | ClickHouse (\~2 yoe) | SQLite | MySQL
 * **System Administration:** Linux (\~12 yoe, primarily Debian- and Arch-based systems) | Bash | systemd | Ansible
+* **Observability:** Prometheus (\~3 yoe) | Grafana (\~2 yoe) | Alertmanager (\~2 yoe)
 * **Virtualization, Containerization:** Docker (\~7 yoe) | Kubernetes (~2 yoe) | Docker Swarm (\~2 yoe) | VMs
 * **Data analysis & visualization:** Pandas (\~7 yoe) | Matplotlib (\~7 yoe) | Numpy \& Scipy (\~7 yoe) | Jupyter
 * **AI & ML:** Applied statistics | Machine learning | DNNs | scikit-learn | Tensorflow
@@ -70,12 +71,10 @@ Committed to fostering a culture of learning and innovation, with a demonstrated
 ### Ph.D. in Electrical Engineering | _KTH Royal Institute of Technology, Sweden_ | Graduated 06/2023
 
 * Dissertation title: [_An Emulation-Based Performance Evaluation Methodology for Edge Computing and Latency Sensitive Applications_](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1758413&dswid=-687)
-* Doctoral Advisor: [James Gross, Ph.D.](https://jamesgross.org)
 
-### Computing Engineer (Professional Degree) | _Universidad de Chile, Chile_ | Graduated 08/2017
+### Computing Engineer (Professional Degree, equivalent to an M.Sc.Eng.) | _Universidad de Chile, Chile_ | Graduated 08/2017
 
-* GPA: 6.5/7.0 (_Highest Honors_).
-* Equivalent to an M.Sc.Eng.
+* GPA: 6.5/7.0 (_Highest Honors_)
 
 ### Bachelor of Engineering Sciences in Computing | _Universidad de Chile, Chile_ | Graduated 12/2014
 
