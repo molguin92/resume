@@ -24,10 +24,10 @@ pagetitle: Manuel Olguín Muñoz
 
 ## Professional Summary
 
-Dedicated Systems and Software Engineer driving innovation and efficiency in technically challenging environments.
+Passionate Systems and Software Engineer driving innovation and efficiency in technically challenging environments.
 Proficient across programming, system administration, networking, and cloud technologies, with a deep understanding of the TCP/IP stack and a particular focus on transport layer services.
 Currently expanding and improving critical control- and dataplane services in Cloudflare's global network, using Rust and Go.
-Committed to fostering a culture of learning and innovation, and with a demonstrated ability to own critical and revenue-driving projects as well as driving impactful research, including pioneering Edge Computing testbed development at KTH.
+Committed to fostering a culture of learning and innovation, with a demonstrated ability to own critical and revenue-driving projects as well as driving impactful research, including pioneering Edge Computing testbed development at KTH.
 
 ## Work Experience
 
