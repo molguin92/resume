@@ -11,16 +11,21 @@ pagetitle: Manuel Olguín Muñoz
 <header>
   <h1>Manuel Olguín Muñoz</h1>
   <span><p>
-  [<i class="fas fa-envelope"></i>&nbsp;manuel@olguinmunoz.xyz](mailto:manuel@olguinmunoz.xyz)</br>
-  [<i class="fa-solid fa-phone"></i>&nbsp;+1 (412) 214 3198](tel:0014122143198)&emsp;&emsp;[<i class="fa-solid fa-phone"></i>&nbsp;+46 73 652 7628](tel:0046736527628)</br>
-  [<i class="fa-solid fa-map-location"></i>&nbsp;Pittsburgh, PA](https://maps.app.goo.gl/siyWtyJLUNSZzDLr5)&emsp;&emsp;[<i class="fa-solid fa-map-location"></i>&nbsp;Stockholm, Sweden](https://goo.gl/maps/2gkFtNR6N4WPFc3c7)</br>
+  [<i class="fas fa-link" style="padding-right:5px"></i>manuel.olguinmunoz.xyz](https://manuel.olguinmunoz.xyz)</br>
+  [<i class="fa-brands fa-github fa-lg" style="padding-right:5px"></i>github.com/molguin92](https://github.com/molguin92)</br>
+  [<i class="fa-brands fa-linkedin fa-lg" style="padding-right:5px"></i>linkedin.com/in/molguin92](https://www.linkedin.com/in/molguin92/)
+  </p><span>
+  <span style="padding-left:60px"><p>
+  [<i class="fas fa-envelope" style="padding-right:5px"></i>manuel@olguinmunoz.xyz](mailto:manuel@olguinmunoz.xyz)</br>
+  [<i class="fa-solid fa-phone" style="padding-right:5px"></i>+1 (412) 214 3198](tel:0014122143198)&emsp;&emsp;|&emsp;&emsp;[<i class="fa-solid fa-phone" style="padding-right:5px"></i>+46 73 652 7628](tel:0046736527628)</br>
+  [<i class="fa-solid fa-map-location" style="padding-right:5px"></i>Pittsburgh, PA](https://maps.app.goo.gl/siyWtyJLUNSZzDLr5)&emsp;&emsp;|&emsp;&emsp;[<i class="fa-solid fa-map-location" style="padding-right:5px"></i>Stockholm, Sweden](https://goo.gl/maps/2gkFtNR6N4WPFc3c7)</br>
   </p>
   </span>
 </header>
 
-<span>
+<!-- <span>
 [<i class="fas fa-link"></i>&nbsp;manuel.olguinmunoz.xyz](https://manuel.olguinmunoz.xyz)&nbsp;&nbsp;|&nbsp;&nbsp;[<i class="fa-brands fa-github fa-lg"></i>&nbsp;github.com/molguin92](https://github.com/molguin92)&nbsp;&nbsp;|&nbsp;&nbsp;[<i class="fa-brands fa-linkedin fa-lg"></i>&nbsp;linkedin.com/in/molguin92](https://www.linkedin.com/in/molguin92/)
-</span>
+</span> -->
 
 ## Professional Summary
 
@@ -37,9 +42,10 @@ Committed to fostering a culture of learning and innovation, with a demonstrated
   * Owned the migration of key control-plane services to new high-availability and disaster-recovery clusters, directly contributing to Cloudflare's goal of ensuring HA and redundancy for all API endpoints.
   * Improved security for Cloudflare customers by owning the implementation of Post-Quantum Cryptography in one of Cloudflare's principal dataplane products, an endeavor involving multiple teams across the company's Engineering and Research orgs.
   * Directly increased Cloudflare revenue by implementing key product features such as expanding existing dataplane products to support more transport protocols and developing important performance-, stability-, and observability-enhancing features.
+  * Developed new and expanded existing RESTful APIs, both public- and internal-facing.
   * Improved team processes by taking ownership of initiatives intended to increase team efficiency.
 * Recognized by leadership as being highly attentive to on-call duties and not missing a single page or alert in the 2022-2023 year.
-* Volunteered to participate in the hiring process at Cloudflare, helping teams evaluate candidates' culture fit.
+* Volunteered to participate in the hiring process at Cloudflare, helping to evaluate candidates' culture fit.
 
 ### Doctoral Researcher | _KTH Royal Institute of Technology, Sweden_ | 09/2017 - 10/2022
 
@@ -50,7 +56,7 @@ Committed to fostering a culture of learning and innovation, with a demonstrated
 ### Lecturer (Remote) | _Universidad de Chile, Chile_ | 08/2021 - 12/2021
 
 * Co-lectured a course on the fundamentals of the TCP/IP stack to 81 computer science undergraduates.
-* Designed innovative homework assignments using the Kathará simulator which were highly praised by students.
+* Designed innovative homework assignments using the [Kathará simulator](https://www.kathara.org/) which were highly praised by students.
 
 ### Research Engineer | _NIC Chile Research Labs, Chile_ | 08/2015 - 08/2017
 
@@ -58,11 +64,12 @@ Committed to fostering a culture of learning and innovation, with a demonstrated
 
 ## Technical Skills
 
-* **Programming languages:** Python (\~12 yoe) | Rust (\~2 yoe) | Go (\~2 yoe) | C++ | Java
+* **Programming languages:** Python (\~12 yoe) | Rust (\~2 yoe) | Go (\~2 yoe) | C+ (\~1 yoe) | Java
+* **Software Development:** Git (\~12 yoe) | GitOps (\~2 yoe) | Github | Bitbucket | Gitlab
 * **Database Technologies**: PostgreSQL (\~2 yoe) | ClickHouse (\~2 yoe) | SQLite | MySQL
 * **System Administration:** Linux (\~12 yoe, primarily Debian- and Arch-based systems) | Bash | systemd | Ansible
 * **Observability:** Prometheus (\~3 yoe) | Grafana (\~2 yoe) | Alertmanager (\~2 yoe)
-* **Virtualization, Containerization:** Docker (\~7 yoe) | Kubernetes (~2 yoe) | Docker Swarm (\~2 yoe) | VMs
+* **Virtualization, Containerization:** Docker (\~7 yoe) | Kubernetes (K8s) (~2 yoe) | Docker Swarm (\~2 yoe) | VMs
 * **Data analysis & visualization:** Pandas (\~7 yoe) | Matplotlib (\~7 yoe) | Numpy \& Scipy (\~7 yoe) | Jupyter
 * **AI & ML:** Applied statistics | Machine learning | DNNs | scikit-learn | Tensorflow
 
@@ -74,11 +81,9 @@ Committed to fostering a culture of learning and innovation, with a demonstrated
 
 ### Computing Engineer (Professional Degree, equivalent to an M.Sc.Eng.) | _Universidad de Chile, Chile_ | Graduated 08/2017
 
-* GPA: 6.5/7.0 (_Highest Honors_)
-
-### Bachelor of Engineering Sciences in Computing | _Universidad de Chile, Chile_ | Graduated 12/2014
+### B.Sc.Eng. in Computing | _Universidad de Chile, Chile_ | Graduated 12/2014
 
 ## Miscellaneous
 
-* Dual citizen of Chile and Sweden
+* Dual citizen of Chile and Sweden.
 * Fluent in Spanish, Swedish, and English. Conversational in Portuguese.
