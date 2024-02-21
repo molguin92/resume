@@ -8,31 +8,50 @@ pagetitle: Manuel Olguín Muñoz
 
 <!-- # Manuel Olguín Muñoz -->
 
+<style type="text/css">
+  td {
+    padding: 0 5px;
+  }
+
+  div {
+    text-align: justify;
+    text-justify: inter-word;
+  }
+</style>
+
 <header>
   <h1>Manuel Olguín Muñoz</h1>
-  <span><p>
-  [<i class="fas fa-link" style="padding-right:5px"></i>manuel.olguinmunoz.xyz](https://manuel.olguinmunoz.xyz)</br>
-  [<i class="fa-brands fa-github fa-lg" style="padding-right:5px"></i>github.com/molguin92](https://github.com/molguin92)</br>
-  [<i class="fa-brands fa-linkedin fa-lg" style="padding-right:5px"></i>linkedin.com/in/molguin92](https://www.linkedin.com/in/molguin92/)
-  </p><span>
-  <span style="padding-left:60px"><p>
-  [<i class="fas fa-envelope" style="padding-right:5px"></i>manuel@olguinmunoz.xyz](mailto:manuel@olguinmunoz.xyz)</br>
-  [<i class="fa-solid fa-phone" style="padding-right:5px"></i>+1 (412) 214 3198](tel:0014122143198)&emsp;&emsp;|&emsp;&emsp;[<i class="fa-solid fa-phone" style="padding-right:5px"></i>+46 73 652 7628](tel:0046736527628)</br>
-  [<i class="fa-solid fa-map-location" style="padding-right:5px"></i>Pittsburgh, PA](https://maps.app.goo.gl/siyWtyJLUNSZzDLr5)&emsp;&emsp;|&emsp;&emsp;[<i class="fa-solid fa-map-location" style="padding-right:5px"></i>Stockholm, Sweden](https://goo.gl/maps/2gkFtNR6N4WPFc3c7)</br>
-  </p>
+  <span>
+<table>
+<tbody>
+  <tr>
+    <td>[<i class="fas fa-link fa-fw" style="padding-right:5px"></i>manuel.olguinmunoz.xyz](https://manuel.olguinmunoz.xyz)</td>
+    <td>[<i class="fa-brands fa-github fa-fw" style="padding-right:5px"></i>github.com/molguin92](https://github.com/molguin92)</td>
+    <td>[<i class="fa-brands fa-linkedin fa-fw" style="padding-right:5px"></i>linkedin.com/in/molguin92](https://www.linkedin.com/in/molguin92/)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>[<i class="fas fa-envelope fa-fw" style="padding-right:5px"></i>manuel@olguinmunoz.xyz](mailto:manuel@olguinmunoz.xyz)</td>
+    <td>[<i class="fa-solid fa-phone fa-fw" style="padding-right:5px"></i>+1 (412) 214 3198](tel:0014122143198)</td>
+    <td>[<i class="fa-solid fa-phone fa-fw" style="padding-right:5px"></i>+46 73 652 7628](tel:0046736527628)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>[<i class="fa-solid fa-map-location fa-fw" style="padding-right:5px"></i>Pittsburgh, PA](https://maps.app.goo.gl/siyWtyJLUNSZzDLr5)</td>
+    <td>[<i class="fa-solid fa-map-location fa-fw" style="padding-right:5px"></i>Stockholm, SWE](https://goo.gl/maps/2gkFtNR6N4WPFc3c7)</td>
+  </tr>
+</tbody>
+</table>
   </span>
 </header>
 
-<!-- <span>
-[<i class="fas fa-link"></i>&nbsp;manuel.olguinmunoz.xyz](https://manuel.olguinmunoz.xyz)&nbsp;&nbsp;|&nbsp;&nbsp;[<i class="fa-brands fa-github fa-lg"></i>&nbsp;github.com/molguin92](https://github.com/molguin92)&nbsp;&nbsp;|&nbsp;&nbsp;[<i class="fa-brands fa-linkedin fa-lg"></i>&nbsp;linkedin.com/in/molguin92](https://www.linkedin.com/in/molguin92/)
-</span> -->
-
 ## Professional Summary
-
+<div>
 Passionate Systems and Software Engineer driving innovation and efficiency in technically challenging environments.
-Proficient across programming, system administration, networking, and cloud technologies, with a deep understanding of the TCP/IP stack and a particular focus on transport layer services.
+Proficient across programming, networking, and the cloud, with a deep understanding of the TCP/IP stack and a focus on backend development and transport layer services.
 Currently expanding and improving critical control- and dataplane services in Cloudflare's global network, using Rust and Go.
-Committed to fostering a culture of learning and innovation, with a demonstrated ability to own critical and revenue-driving projects as well as driving impactful research, including pioneering Edge Computing testbed development at KTH.
+Committed to fostering a culture of learning and innovation, with a demonstrated ability to own critical and revenue-driving projects as well as driving impactful research, such as pioneering Edge Computing testbed development at KTH.
+</div>
 
 ## Work Experience
 
