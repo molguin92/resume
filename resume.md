@@ -25,13 +25,13 @@ pagetitle: Manuel Olguín Muñoz
 <table>
 <tbody>
   <tr>
-    <td>[<i class="fas fa-link fa-fw" style="padding-right:5px"></i>manuel.olguinmunoz.xyz](https://manuel.olguinmunoz.xyz)</td>
+    <td>[<i class="fas fa-link fa-fw" style="padding-right:5px"></i>manuel.olguinmunoz.com](https://manuel.olguinmunoz.com)</td>
     <td>[<i class="fa-brands fa-github fa-fw" style="padding-right:5px"></i>github.com/molguin92](https://github.com/molguin92)</td>
     <td>[<i class="fa-brands fa-linkedin fa-fw" style="padding-right:5px"></i>linkedin.com/in/molguin92](https://www.linkedin.com/in/molguin92/)</td>
     <td></td>
   </tr>
   <tr>
-    <td>[<i class="fas fa-envelope fa-fw" style="padding-right:5px"></i>manuel@olguinmunoz.xyz](mailto:manuel@olguinmunoz.xyz)</td>
+    <td>[<i class="fas fa-envelope fa-fw" style="padding-right:5px"></i>manuel@olguinmunoz.com](mailto:manuel@olguinmunoz.com)</td>
     <td>[<i class="fa-solid fa-phone fa-fw" style="padding-right:5px"></i>+1 (412) 214 3198](tel:0014122143198)</td>
     <td>[<i class="fa-solid fa-phone fa-fw" style="padding-right:5px"></i>+46 73 652 7628](tel:0046736527628)</td>
   </tr>
@@ -68,7 +68,7 @@ Committed to fostering a culture of learning and innovation, with a demonstrated
 
 ### Doctoral Researcher | _KTH Royal Institute of Technology, Sweden_ | 09/2017 - 10/2022
 
-* Designed and built the first reprogrammable and reconfigurable [Edge Computing testbed](https://manuel.olguinmunoz.xyz/projects/expeca_testbed/) in Sweden.
+* Designed and built the first reprogrammable and reconfigurable [Edge Computing testbed](https://manuel.olguinmunoz.com/projects/expeca_testbed/) in Sweden.
 * In collaboration with the [Elijah Group](https://elijah.cs.cmu.edu/) at Carnegie Mellon University, published research on Augmented Reality and Edge Computing in renowned publications and venues such as [PLOS ONE](https://journals.plos.org/plosone/), [ACM HotMobile](http://www.hotmobile.org/main/), and the [ACM/IEEE Symposium on Edge Computing](http://acm-ieee-sec.org/).
   * Selected publication: Olguín Muñoz _et al._ 2021. [Impact of delayed response on wearable cognitive assistance](https://doi.org/10.1371/journal.pone.0248690), PLOS ONE.
 
@@ -84,7 +84,7 @@ Committed to fostering a culture of learning and innovation, with a demonstrated
 ## Technical Skills
 
 * **Programming languages:** Python (\~12 yoe) | Rust (\~2 yoe) | Go (\~2 yoe) | C+ (\~1 yoe) | Java
-* **Software Development:** Git (\~12 yoe) | GitOps (\~2 yoe) | Github | Bitbucket | Gitlab
+* **Software Development:** Git (\~12 yoe) | JIRA (\~2 yoe) | Github | Bitbucket | Gitlab
 * **Database Technologies**: PostgreSQL (\~2 yoe) | ClickHouse (\~2 yoe) | SQLite | MySQL
 * **System Administration:** Linux (\~12 yoe, primarily Debian- and Arch-based systems) | Bash | systemd | Ansible
 * **Observability:** Prometheus (\~3 yoe) | Grafana (\~2 yoe) | Alertmanager (\~2 yoe)
