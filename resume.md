@@ -37,7 +37,7 @@ pagetitle: Manuel Olguín Muñoz
   </tr>
   <tr>
     <td></td>
-    <td>[<i class="fa-solid fa-map-location fa-fw" style="padding-right:5px"></i>Pittsburgh, PA](https://maps.app.goo.gl/siyWtyJLUNSZzDLr5)</td>
+    <td>[<i class="fa-solid fa-map-location fa-fw" style="padding-right:5px"></i>Bellevue, WA](https://maps.app.goo.gl/ptr9ocUXFyJGE5249)</td>
     <td>[<i class="fa-solid fa-map-location fa-fw" style="padding-right:5px"></i>Stockholm, SWE](https://goo.gl/maps/2gkFtNR6N4WPFc3c7)</td>
   </tr>
 </tbody>
@@ -57,13 +57,16 @@ Committed to fostering a culture of learning and innovation, with a demonstrated
 
 ### Systems Engineer, Argo Smart Routing | _Cloudflare Inc., US_ | 11/2022 - Present
 
-* Built upon and expanded the [Argo Smart Routing](https://www.cloudflare.com/application-services/products/argo-smart-routing/) team's existing **Rust** and **Go** codebases.
+* Built upon and expanded the [Argo Smart Routing](https://www.cloudflare.com/application-services/products/argo-smart-routing/) team's **Rust** and **Go** codebases.
+  * Designed and implemented a novel caching strategy for an important analytic's service, resulting in the halving of the service's response time and improved disaster recovery capabilities.
+  <!-- * Owned and led an initiative to expand [Cloudflare's Orpheus product](https://blog.cloudflare.com/orpheus-saves-internet-requests-while-maintaining-speed/), which automatically routes requests around connectivity outages, to internal traffic, bringing the benefits of Orpheus to a multitude of new services and customers. -->
   * Owned the migration of key control-plane services to new high-availability and disaster-recovery clusters, directly contributing to Cloudflare's goal of ensuring HA and redundancy for all API endpoints.
   * Improved security for Cloudflare customers by owning the implementation of Post-Quantum Cryptography in one of Cloudflare's principal dataplane products, an endeavor involving multiple teams across the company's Engineering and Research orgs.
   * Directly increased Cloudflare revenue by implementing key product features such as expanding existing dataplane products to support more transport protocols and developing important performance-, stability-, and observability-enhancing features.
-  * Developed new and expanded existing RESTful APIs, both public- and internal-facing.
+  <!-- * Developed new and expanded existing RESTful APIs, both public- and internal-facing. -->
   * Improved team processes by taking ownership of initiatives intended to increase team efficiency.
-* Recognized by leadership as being highly attentive to on-call duties and not missing a single page or alert in the 2022-2023 year.
+  * Led initiatives to release internal code as Open Source, furthering Cloudflare's commitment to maintaining a strong open-source culture.
+* Recognized by leadership as being highly attentive to on-call duties.
 * Volunteered to participate in the hiring process at Cloudflare, helping to evaluate candidates' culture fit.
 
 ### Doctoral Researcher | _KTH Royal Institute of Technology, Sweden_ | 09/2017 - 10/2022
@@ -83,12 +86,12 @@ Committed to fostering a culture of learning and innovation, with a demonstrated
 
 ## Technical Skills
 
-* **Programming languages:** Python (\~12 yoe) | Rust (\~2 yoe) | Go (\~2 yoe) | C+ (\~1 yoe) | Java
-* **Software Development:** Git (\~12 yoe) | JIRA (\~2 yoe) | Github | Bitbucket | Gitlab
-* **Database Technologies**: PostgreSQL (\~2 yoe) | ClickHouse (\~2 yoe) | SQLite | MySQL
-* **System Administration:** Linux (\~12 yoe, primarily Debian- and Arch-based systems) | Bash | systemd | Ansible
-* **Observability:** Prometheus (\~3 yoe) | Grafana (\~2 yoe) | Alertmanager (\~2 yoe)
-* **Virtualization, Containerization:** Docker (\~7 yoe) | Kubernetes (K8s) (~2 yoe) | Docker Swarm (\~2 yoe) | VMs
+* **Programming languages:** Python (\~12 yoe) | Rust (\~3 yoe) | Go (\~3 yoe) | C+ (\~1 yoe) | Java
+* **Software Development:** Git (\~13 yoe) | JIRA (\~3 yoe) | Github | Bitbucket | Gitlab
+* **Database Technologies**: PostgreSQL (\~3 yoe) | ClickHouse (\~3 yoe) | SQLite | MySQL
+* **System Administration:** Linux (\~13 yoe, primarily Debian- and Arch-based systems) | Bash | systemd | Ansible
+* **Observability:** Prometheus (\~4 yoe) | Grafana (\~3 yoe) | Alertmanager (\~3 yoe)
+* **Virtualization, Containerization:** Docker (\~8 yoe) | Kubernetes (K8s) (~3 yoe) | Docker Swarm (\~2 yoe) | VMs
 * **Data analysis & visualization:** Pandas (\~7 yoe) | Matplotlib (\~7 yoe) | Numpy \& Scipy (\~7 yoe) | Jupyter
 * **AI & ML:** Applied statistics | Machine learning | DNNs | scikit-learn | Tensorflow
 
